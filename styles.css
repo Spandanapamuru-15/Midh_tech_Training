@@ -1,0 +1,15 @@
+h1:hover {
+  color: red;
+  transition: 0.5s;
+  transform: scale(1.2);
+}
+nav:hover {
+  color: red;
+  transition: 0.5s;
+  transform: scale(1.2);
+}
+footer:hover {
+  color: red;
+  transition: 0.5s;
+  transform: scale(1.2);
+}
